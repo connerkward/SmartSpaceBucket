@@ -18,9 +18,9 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "DARKNET";
-const char* password = "wardnet3";
-const char* mqtt_server = "192.168.8.172";
+const char* ssid = "XXXXXX";
+const char* password = "XXXXXXX";
+const char* mqtt_server = "XXXXXXX";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
