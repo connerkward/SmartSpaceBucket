@@ -12,7 +12,8 @@ I wanted to maintain lots of orginal parts on the sprouter because they are dish
 
 Included are an attachment for the top reservoir of the sprouter, and a replacemnet for the bottom level of the sprouter. The top attachment holds standard 1/4" OD tubing*, as does the new bottom, to facilate automatic drainage. 
 
-Connect with a tank and a pump and your off to the races. 
+Connect with a tank, pump and timer, your're off to the races. 
+Smart version to be released for esp32 and mqtt home automation systems.
 
 I have considered also desining a gravity fed version that uses some sort of gate or solenoid, but that would require lots of heavy water high up.
 
