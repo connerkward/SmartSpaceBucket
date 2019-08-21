@@ -31,3 +31,5 @@ Design for bucket will follow.
 *Designed for 6mm (possibly) and 1/4 inch OD tubing. Preferably food safe polyethelyne tubing.
 
 If horticulturalists have ideas on how to use the water (distilled) that has been run through the sprouts, PM! 
+
+What I would really like is a system that is easily expandable, clean (hence the dishwasher safe food-touching bits), and easily distributed. 
