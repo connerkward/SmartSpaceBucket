@@ -26,7 +26,7 @@ Fully contained grow computer, with optional soil moisture probes and temprature
   - INO GROW COMPUTER
   
 <h4>ITERATION 3.0 ~ INTEGRATED HYDROPONICS [PLANNING]</h4>
-A server uses MQTT to send timed alerts to dosage bot (accurately doses hydroponic nutrients), stir bot (vitally agitates nutrient solution) and bucket/pump controller (pumps mixed nutrient solution from resevoir to plants).
+A dockerized server, uses MQTT to send timed alerts to dosage bot (accurately doses hydroponic nutrients), stir bot (vitally agitates nutrient solution) and bucket/pump controller (pumps mixed nutrient solution from resevoir to plants), as well as provides a web interface for entire system and sensors.
 
 *Designed for 6mm (possibly) and 1/4 inch OD tubing. Preferably food safe polyethelyne tubing.
 If horticulturalists have ideas on how to reuse the water that has been run through the sprouts, PM
