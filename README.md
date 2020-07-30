@@ -21,7 +21,7 @@ This iteration requires the least amount of assembly.
 
 <h4>ITERATION 2.0 ~ SPACE BUCKET [IN PROGRESS]</h4>
 Fully contained grow computer, with optional soil moisture probes and temprature probes, optional pump I2C out, and a web interface, running on an ESP32/ESP8266/ESP01. Integrated fan control to regulate temperature. Current design uses off the shelf pc fan and off the shelf pcie usb adapter for a plug and play experience of sensors, pump interfaces, and fan interfaces. 
-\n
+<br/>
   - CAD GROW COMPUTER **[COMPLETE]**
   - CIRCUIT DIAGRAM GROW COMPUTER (5V Only USB Ports)
   - CAD BUCKET ADAPTER PLATES **[COMPLETE]**
