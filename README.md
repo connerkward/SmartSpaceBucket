@@ -1,5 +1,5 @@
 # SmartSpaceBucket
-MQTT, ESP01, ESP8266, ESP32, Sprouts, Grow-band LEDs
+Indoor Agriculture via MQTT, ESP01, ESP8266, ESP32, Sprouts, Grow-band LEDs
 
 <img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.46.47%20PM.png" height="200"><img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.36.29%20PM.png" height="200"><img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.39.56%20PM.png" height="200"><img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.41.00%20PM.png" height="200">
 
