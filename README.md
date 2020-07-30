@@ -27,7 +27,7 @@ Fully contained grow computer, with optional soil moisture probes and temprature
   - CAD BUCKET ADAPTER PLATES **[COMPLETE]**
   - INO GROW COMPUTER
   
-<h4>ITERATION 3.0 ~ INTEGRATED HYDROPONICS **[IN PROGRESS]**</h4>
+<h4>ITERATION 3.0 ~ INTEGRATED HYDROPONICS [PLANNING]</h4>
 A server uses MQTT to send timed alerts to dosage bot (accurately doses hydroponic nutrients), stir bot (vitally agitates nutrient solution) and bucket/pump controller (pumps mixed nutrient solution from resevoir to plants).
 
 *Designed for 6mm (possibly) and 1/4 inch OD tubing. Preferably food safe polyethelyne tubing.
