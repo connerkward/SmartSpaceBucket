@@ -1,7 +1,7 @@
 # SmartSpaceBucket
 MQTT, ESP01, ESP8266, ESP32, Sprouts, Grow-band LEDs
 
-![](https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.46.47%20PM.png){:class="img-responsive"}
+![](https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.46.47%20PM.png&s=200)
 
 Designed to have everything you need to start growin!
 
