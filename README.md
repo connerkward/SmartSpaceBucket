@@ -3,9 +3,12 @@ Indoor Agriculture via MQTT, ESP01, ESP8266, ESP32, Sprouts, Grow-band LEDs
 
 <img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.46.47%20PM.png" height="200"><img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.36.29%20PM.png" height="200"><img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.39.56%20PM.png" height="200"><img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.41.00%20PM.png" height="200">
 
+<img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%203.01.01%20PM.png" height="200">
+
 
 First iteration will be based on this micrgreen sprouter:
-https://www.amazon.com/Deluxe-Kitchen-Sprouter-VICTORIO-VKP1200/dp/B01AJJOJD0/ref=sr_1_4?keywords=sprouter&qid=1566349968&s=gateway&sr=8-4
+
+https://www.amazon.com/Deluxe-Kitchen-Sprouter-VICTORIO-VKP1200/
 
 The original sprouter requires 2-3 waters a day, and each time unloading the leftover water at the bottom. Not great for busy folk!
 
