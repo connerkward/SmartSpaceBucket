@@ -1,4 +1,5 @@
 # SmartSpaceBucket
+https://img.shields.io/github/followers/connerkward?label=Follow&style=social
 Distributable Indoor Agriculture via MQTT, ESP01, ESP8266, ESP32, Grow-band LEDs
 
 <img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/screenshots/multi_function_display.png" height="200"><img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/screenshots/web_stackable_doser.png" height="200"><img src="https://github.com/connerkward/SmartSpaceBucket/blob/master/screenshots/grow_computer.png" height="200">
