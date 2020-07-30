@@ -1,5 +1,5 @@
 # SmartSpaceBucket
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/connerkward/SmartSpaceBucket"> <img alt="GitHub" src="https://img.shields.io/github/license/connerkward/SmartSpaceBucket"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/connerkward/SmartSpaceBucket"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/connerkward?label=Follow&style=social"><br/>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/connerkward/SmartSpaceBucket"> ![GitHub](https://img.shields.io/github/license/connerkward/SmartSpaceBucket) <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/connerkward/SmartSpaceBucket"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/connerkward?label=Follow&style=social"><br/>
 
 Distributable Indoor Agriculture via MQTT, ESP01, ESP8266, ESP32, Grow-band LEDs
 
