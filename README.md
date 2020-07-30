@@ -1,6 +1,8 @@
 # SmartSpaceBucket
 MQTT, ESP01, ESP8266, ESP32, Sprouts, Grow-band LEDs
 
+![Image of Sprouter](https://github.com/connerkward/SmartSpaceBucket/blob/master/Screen%20Shot%202020-07-30%20at%202.46.47%20PM.png)
+
 Designed to have everything you need to start growin!
 
 First iteration will be based on this micrgreen sprouter:
