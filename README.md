@@ -19,7 +19,7 @@ Included are an attachment for the top reservoir of the sprouter, and a replacem
 
 This iteration requires the least amount of assembly.
 
-<h4>ITERATION 2.0 ~ SPACE BUCKET [IN PROGRESS]</h4>
+<h4>ITERATION 2.0 ~ SPACE BUCKET **[IN PROGRESS]**</h4>
 Fully contained grow computer, with optional soil moisture probes and temprature probes, optional pump I2C out, and a web interface, running on an ESP32/ESP8266/ESP01. Integrated fan control to regulate temperature. Current design uses off the shelf pc fan and off the shelf pcie usb adapter for a plug and play experience of sensors, pump interfaces, and fan interfaces. 
 
 SPACE BUCKET
@@ -28,7 +28,7 @@ SPACE BUCKET
   - CAD BUCKET ADAPTER PLATES **[COMPLETE]**
   - INO GROW COMPUTER
   
-<h4>ITERATION 3.0 ~ INTEGRATED HYDROPONICS [IN PROGRESS]</h4>
+<h4>ITERATION 3.0 ~ INTEGRATED HYDROPONICS **[IN PROGRESS]**</h4>
 A server uses MQTT to send timed alerts to dosage bot (accurately doses hydroponic nutrients), stir bot (vitally agitates nutrient solution) and bucket/pump controller (pumps mixed nutrient solution from resevoir to plants).
 
 *Designed for 6mm (possibly) and 1/4 inch OD tubing. Preferably food safe polyethelyne tubing.
